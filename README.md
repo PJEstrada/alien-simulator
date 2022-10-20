@@ -8,7 +8,7 @@ and destroying cities.
 1. Clone Repo
 
 ```
-git clone
+git clone https://github.com/PJEstrada/alien-simulator
 ```
 
 2. Build Binaries.
