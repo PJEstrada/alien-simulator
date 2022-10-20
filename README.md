@@ -14,7 +14,7 @@ git clone https://github.com/PJEstrada/alien-simulator
 2. Build Binaries.
 
 ```
-cd aliensim && go install
+cd alien-simulator && go install
 ```
 
 
